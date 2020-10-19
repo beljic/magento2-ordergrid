@@ -1,6 +1,6 @@
 {
     "name": "beljic/magento2-ordergrid",
-    "description": "",
+    "description": "The extension add coupon_code and discount amount to admin's sales_order_grid.\n",
     "type": "magento2-module",
     "authors": [
         {
