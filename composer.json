@@ -17,7 +17,7 @@
     "require": {},
     "autoload": {
         "files": [
-            "registration.php"
+            "vendor/pssoftware/registration.php"
         ],
         "psr-4": {
             "PSSoftware\\OrderGrid\\": ""
