@@ -1,0 +1,21 @@
+{
+    "name": "beljic/ordergrid",
+    "description": "",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "email": "beljic@gmail.com",
+            "name": "Dejan B"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "PSSoftware\\OrderGrid\\": ""
+        }
+    }
+}
